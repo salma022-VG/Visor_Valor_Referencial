@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -o \"instanceof[a-zA-Z_.]*rbush\\\\|function rbush\\([^\\)]*\\){[^}]\\\\{0,60\\\\}\" \"c:\\\\Users\\\\valen\\\\Downloads\\\\qgis2web_2026_07_23-09_33_07_233571\\\\js\\\\rbush.min.js\")",
+      "Bash(node -e ' *)"
+    ]
+  }
+}
